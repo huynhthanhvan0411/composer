@@ -1,5 +1,10 @@
 {
-    "require": {
-        "phpunit/php-timer": "^5.0"
-    }
+  "require": {
+    "phpunit/php-timer": "^5.0"
+  },
+  "author": {
+    "author": "thanh van",
+    "email": "huynhthanhvan0411@gmail.com",
+    "php": "7.4"
+  }
 }
